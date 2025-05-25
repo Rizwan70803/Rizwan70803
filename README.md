@@ -1,5 +1,9 @@
 ## Hi there 👋
+I am a detail-oriented professional transitioning from a sales support role into data analytics, driven by a strong interest developed through hands-on experience in a previous position. I hold a Bachelor of Science and a Graduate Certificate in Data Science Fundamentals, and I am currently pursuing a Certificate in Data Analytics through a boot camp-style program with Generation Australia.
 
+I have experience in stakeholder communication, working with sales data in Excel, and creating pivot tables for reporting. Recently, I’ve developed skills in Excel, Python, SQL, Statistics, and Power BI through formal training and personal projects.
+
+Please feel free to explore the projects I’ve created, where I’ve showcased these skills in action.
 <!--
 **Rizwan70803/Rizwan70803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
