@@ -66,7 +66,8 @@ I'm currently enrolled in a **Data Analytics Bootcamp** with Generation Australi
 ## 📫 Let's Connect!
 
 🔗 [LinkedIn](#)  
-📧 your.email@example.com
+📧(https://www.linkedin.com/in/riz
+ wan-abdullah-5849a217/ )
 
 ---
 
