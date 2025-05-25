@@ -42,7 +42,7 @@ Here are some of the tools and technologies I've been working with:
 ### 🐍 Python Data Exploration  
 **Analyzed customer data** to uncover behavioral trends and present visual insights using Matplotlib & Seaborn.
 
-![python-project](https://github.com/Rizwan70803/blob/main/Basic-Calculator/First_Basic_Cal.ipynb)
+![python-project](https://github.com/Rizwan70803/Basic-Calculator)
 
 ---
 
