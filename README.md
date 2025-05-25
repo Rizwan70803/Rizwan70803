@@ -33,7 +33,7 @@ Here are some of the tools and technologies I've been working with:
 🚀 Featured Projects
 
 ### 🧮 Excel Sales Dashboard  
-**Built an interactive sales dashboard** to monitor monthly revenue, product performance, and regional sales trends.
+**Built an interactive sales dashboard** to analyze passenger data, visualize survival rates by demographics (such as age and gender), and provide clear insights through pivot tables and charts.
 
 ![excel-dashboard](https://github.com/Rizwan70803/Titanic-Survival-Dashboard )
 
