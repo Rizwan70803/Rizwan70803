@@ -35,7 +35,7 @@ Here are some of the tools and technologies I've been working with:
 ### 🧮 Excel Sales Dashboard  
 **Built an interactive sales dashboard** to monitor monthly revenue, product performance, and regional sales trends.
 
-![excel-dashboard](https://github.com/Rizwan70803/survial dashboard.png)
+![excel-dashboard](https://github.com/Rizwan70803/Titanic-Survival-Dashboard )
 
 ---
 
