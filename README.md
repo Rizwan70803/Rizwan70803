@@ -49,7 +49,7 @@ Here are some of the tools and technologies I've been working with:
 ### 📊 Power BI Insights  
 **Created a dynamic Power BI dashboard** to track key business metrics and help non-technical users make data-driven decisions.
 
-![power-bi](https://github.com/Rizwan70803/Sales-Dashboard/Awesome_Choclates.pbix)
+![power-bi](https://github.com/Rizwan70803/Sales-Dashboard/blob/main/Awesome_Choclates.pbix)
 
 ---
 
