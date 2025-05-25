@@ -3,7 +3,7 @@ I am a detail-oriented professional transitioning from a sales support role into
 
 I have experience in stakeholder communication, working with sales data in Excel, and creating pivot tables for reporting. Recently, I’ve developed skills in Excel, Python, SQL, Statistics, and Power BI through formal training and personal projects.
 
-Please feel free to explore the projects I’ve created, where I’ve showcased these skills in action.
+Please feel free to explore the projects I’ve created, where I’ve showcased these skills in action :-)
 <!--
 **Rizwan70803/Rizwan70803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
