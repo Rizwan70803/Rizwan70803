@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/b265ab31-2305-4616-8838-c5b65cd25e36)
+
+
 👋 Hello and Welcome!
 
 I'm Rizwan , a detail-oriented professional making an exciting transition from a Sales Support background into the world of Data Analytics! 🚀
