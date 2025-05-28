@@ -9,7 +9,9 @@ I'm Rizwan , a detail-oriented professional making an exciting transition from a
 
 🔍 I discovered my passion for data through hands-on experience working with sales reports and Excel dashboards — and I haven't looked back since!
 
-🎓 I hold a **Bachelor of Science** and a **Graduate Certificate in Data Science Fundamentals**, and I'm currently sharpening my skills through a **Data Analytics Bootcamp** with **Generation Australia**.
+🎓 I hold a **Bachelor of Science** and a **Graduate Certificate in Data Science Fundamentals**, and I was also accepted in Generation Australia a 13-week intensive bootcamp in 
+Data Analytics. The commitment for this program was 38 hours per week with practical task and project requirements. I am experienced in stakeholder communication, working with sales data in 
+Excel, and creatin pivot tables for reporting.
 
 🛠️ Skills & Tools
 
