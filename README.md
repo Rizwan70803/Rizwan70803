@@ -4,7 +4,7 @@
 👋 Hello and Welcome!
 
 I'm Rizwan , a detail-oriented professional making an exciting transition from a Sales Support background into the world of Data Analytics! 
-I am experienced in stakeholder communication, working with sales data in Excel, and creatin pivot tables for reporting. 🚀
+I am experienced in stakeholder communication, working with sales data in Excel, and creating pivot tables for reporting. 🚀
 
 🎯 About Me
 
