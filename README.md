@@ -12,6 +12,7 @@ I am experienced in stakeholder communication, working with sales data in Excel,
 
 🎓 I hold a **Bachelor of Science** and a **Graduate Certificate in Data Science Fundamentals**, and I was also accepted in Generation Australia a 13-week intensive bootcamp in 
 Data Analytics. The commitment for this program was 38 hours per week with practical task and project requirements. 
+
 🛠️ Skills & Tools
 
 Here are some of the programming languages and analytical tools I have been working with:
