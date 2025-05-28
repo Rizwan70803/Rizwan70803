@@ -3,21 +3,20 @@
 
 👋 Hello and Welcome!
 
-I'm Rizwan , a detail-oriented professional making an exciting transition from a Sales Support background into the world of Data Analytics! 🚀
+I'm Rizwan , a detail-oriented professional making an exciting transition from a Sales Support background into the world of Data Analytics! 
+I am experienced in stakeholder communication, working with sales data in Excel, and creatin pivot tables for reporting. 🚀
 
 🎯 About Me
 
 🔍 I discovered my passion for data through hands-on experience working with sales reports and Excel dashboards — and I haven't looked back since!
 
 🎓 I hold a **Bachelor of Science** and a **Graduate Certificate in Data Science Fundamentals**, and I was also accepted in Generation Australia a 13-week intensive bootcamp in 
-Data Analytics. The commitment for this program was 38 hours per week with practical task and project requirements. I am experienced in stakeholder communication, working with sales data in 
-Excel, and creatin pivot tables for reporting.
-
+Data Analytics. The commitment for this program was 38 hours per week with practical task and project requirements. 
 🛠️ Skills & Tools
 
-Here are some of the tools and technologies I've been working with:
+Here are some of the programming languages and analytical tools I have been working with:
 
-| Tool      | Skills |
+| Programming Languages/Analytical tools      | Skills |
 |-----------|------------|
 | 📊 Excel        | Advanced formulas, Pivot Tables, Dashboards |
 | 🐍 Python       | Pandas, NumPy, Matplotlib, Seaborn |
