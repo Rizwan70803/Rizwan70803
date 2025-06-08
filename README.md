@@ -57,7 +57,7 @@ Here are some of the programming languages and analytical tools I have been work
 
 ![power-bi](https://github.com/Rizwan70803/Sales-Dashboard/blob/main/Awesome_Choclates.pbix)
 ---
-![power-bi](https://github.com/Rizwan70803/Dashboard/blob/main/Water_Quality_Assignment.pbix)
+![power-bi](https://github.com/Rizwan70803/Water-Quality-Project/blob/main/Water_Quality_Assignment.pbix)
 ---
 
 ## 💼 Ongoing Learning
