@@ -73,7 +73,7 @@ I'm currently enrolled in a **Data Analytics Bootcamp** with Generation Australi
 ## 📫 Let's Connect!
 
 🔗 [LinkedIn](#)  
-📧(https://www.linkedin.com/in/rizwan-abdullah-5849a217/)
+📧(https://www.linkedin.com/in/rizabd)
 
 ---
 
