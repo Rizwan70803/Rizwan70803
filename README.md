@@ -39,11 +39,11 @@ Here are some of the programming languages and analytical tools I have been work
 🚀 Featured Projects
 
 ### 🧮 Excel Sales Dashboard  
-**Built an interactive sales dashboard** to analyze passenger data, visualize survival rates by demographics (such as age and gender), and provide clear insights through pivot tables and charts.
+**Built an interactive sales dashboard** to analyze passenger data, visualize survival rates by demographics (such as age and gender), and provide clear insights through pivot tables and charts.The second project focuses on analyzing employee data using Microsoft Excel to answer key business questions: Which department has the highest average salary and Which department is performing the best based on performance metrics.
 
 ![excel-dashboard](https://github.com/Rizwan70803/Titanic-Survival-Dashboard )
 ---
-![excel-dashboard](https://github.com/Rizwan70803/Employee-Data)
+![excel-dashboard](https://github.com/Rizwan70803/Employee-Data  )
 
 ### 🐍 Python Data Exploration  
 **Analyzed customer data** to uncover behavioral trends and present visual insights using Matplotlib & Seaborn.
