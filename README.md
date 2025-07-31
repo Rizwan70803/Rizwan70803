@@ -47,6 +47,7 @@ Here are some of the programming languages and analytical tools I have been work
 
 ### 🐍 Python Data Exploration  
 **Analyzed customer data** to uncover behavioral trends and present visual insights using Matplotlib & Seaborn.
+There are 3 projects in 1 repository.
 
 ![python-project](https://github.com/Rizwan70803/Basic-Calculator)
 
