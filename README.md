@@ -43,7 +43,7 @@ Here are some of the programming languages and analytical tools I have been work
 
 ![excel-dashboard](https://github.com/Rizwan70803/Titanic-Survival-Dashboard )
 ---
-![excel-dashboard](https://github.com/Rizwan70803/Employee Data.xls)
+![excel-dashboard](https://github.com/Rizwan70803/Employee-Data)
 
 ### 🐍 Python Data Exploration  
 **Analyzed customer data** to uncover behavioral trends and present visual insights using Matplotlib & Seaborn.
