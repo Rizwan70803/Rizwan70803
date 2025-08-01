@@ -61,7 +61,7 @@ There are 3 projects in 1 repository.
 
 ## 💼 Ongoing Learning
 
-I'm currently enrolled in a **Data Analytics Bootcamp** with Generation Australia where I’m working on real-world projects and further developing:
+I've successfully completed a **Data Analytics Bootcamp** with Generation Australia where I worked on real-world projects and further developed the follwoing :
 
 - 💡 Critical thinking
 - 📊 Data storytelling
